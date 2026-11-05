@@ -1,4 +1,4 @@
-# Séance 1 — Partage de frais, comme d’habitude
+# Séance 1 — Partage de frais
 
 ## 1. Déroulé de la séance
 
